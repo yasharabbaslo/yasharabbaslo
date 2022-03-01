@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasharabbaslo
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Flutter development.
+- 💞️ I’m looking to collaborate on Fluter developer team.
 - 📫 How to reach me: yashar.abbaslo@gmail.com
 
 <!---
